@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://azzmnrwebdev.github.io/ci-cd/",
+  "homepage": "https://azzmnrwebdev.github.io/learn-ci-cd/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
